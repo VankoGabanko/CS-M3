@@ -1,0 +1,14 @@
+H:\GitHub\CS-M3\Phonebook\Phonebook\bin\Debug\net6.0\Phonebook.exe
+H:\GitHub\CS-M3\Phonebook\Phonebook\bin\Debug\net6.0\Phonebook.deps.json
+H:\GitHub\CS-M3\Phonebook\Phonebook\bin\Debug\net6.0\Phonebook.runtimeconfig.json
+H:\GitHub\CS-M3\Phonebook\Phonebook\bin\Debug\net6.0\Phonebook.dll
+H:\GitHub\CS-M3\Phonebook\Phonebook\bin\Debug\net6.0\Phonebook.pdb
+H:\GitHub\CS-M3\Phonebook\Phonebook\obj\Debug\net6.0\Phonebook.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CS-M3\Phonebook\Phonebook\obj\Debug\net6.0\Phonebook.AssemblyInfoInputs.cache
+H:\GitHub\CS-M3\Phonebook\Phonebook\obj\Debug\net6.0\Phonebook.AssemblyInfo.cs
+H:\GitHub\CS-M3\Phonebook\Phonebook\obj\Debug\net6.0\Phonebook.csproj.CoreCompileInputs.cache
+H:\GitHub\CS-M3\Phonebook\Phonebook\obj\Debug\net6.0\Phonebook.dll
+H:\GitHub\CS-M3\Phonebook\Phonebook\obj\Debug\net6.0\refint\Phonebook.dll
+H:\GitHub\CS-M3\Phonebook\Phonebook\obj\Debug\net6.0\Phonebook.pdb
+H:\GitHub\CS-M3\Phonebook\Phonebook\obj\Debug\net6.0\Phonebook.genruntimeconfig.cache
+H:\GitHub\CS-M3\Phonebook\Phonebook\obj\Debug\net6.0\ref\Phonebook.dll
